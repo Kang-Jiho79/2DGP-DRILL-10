@@ -2,7 +2,7 @@
 
 # world[0] : 0 layer
 # world[1] : 1 layer
-world = [[],[]] # 게임 내의 모든 객체를 담는 리스트입니다.
+world = [[],[],[]] # 게임 내의 모든 객체를 담는 리스트입니다.
 
 def add_object(o, depth = 0):
     world[depth].append(o)
