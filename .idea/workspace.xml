@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b9d90d9-c825-4b76-bd9d-af399574b5bd" name="Changes" comment="update play_mode bird 10마리 추가">
+      <change beforePath="$PROJECT_DIR$/bird.py" beforeDir="false" afterPath="$PROJECT_DIR$/bird.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kang-Jiho79"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kang-Jiho79/2DGP-DRILL-10.git",
+    "accountId": "cf2d0f4e-0041-4358-8c32-b2a16da733fb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="34xxbPu57wAMvldzUDdELbNQ7Vz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/giho2/Documents/GitHub/2DGP/2DGP-DRILL-10"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2DGP-DRILL-10" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b9d90d9-c825-4b76-bd9d-af399574b5bd" name="Changes" comment="" />
+      <created>1762169094235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762169094235</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add bird 파일">
+      <option name="closed" value="true" />
+      <created>1762169242768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762169242768</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update bird import">
+      <option name="closed" value="true" />
+      <created>1762169398330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762169398330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update bird speed">
+      <option name="closed" value="true" />
+      <created>1762170158576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170158576</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update bird action">
+      <option name="closed" value="true" />
+      <created>1762170268631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170268631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update bird class">
+      <option name="closed" value="true" />
+      <created>1762170316645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170316645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update bird __init__">
+      <option name="closed" value="true" />
+      <created>1762170361145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170361145</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update bird __init__ 완성">
+      <option name="closed" value="true" />
+      <created>1762170468666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170468666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add bird function">
+      <option name="closed" value="true" />
+      <created>1762170526695</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170526695</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update bird draw">
+      <option name="closed" value="true" />
+      <created>1762170623676</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170623676</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update bird update">
+      <option name="closed" value="true" />
+      <created>1762170693078</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762170693078</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update play_mode bird 10마리 추가">
+      <option name="closed" value="true" />
+      <created>1762171981681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762171981681</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add bird 파일" />
+    <MESSAGE value="update bird import" />
+    <MESSAGE value="update bird speed" />
+    <MESSAGE value="update bird action" />
+    <MESSAGE value="update bird class" />
+    <MESSAGE value="update bird __init__" />
+    <MESSAGE value="update bird __init__ 완성" />
+    <MESSAGE value="add bird function" />
+    <MESSAGE value="update bird draw" />
+    <MESSAGE value="update bird update" />
+    <MESSAGE value="update play_mode bird 10마리 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="update play_mode bird 10마리 추가" />
+  </component>
+</project>
