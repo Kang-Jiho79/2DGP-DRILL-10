@@ -28,7 +28,11 @@ class Bird:
         pass
 
     def draw(self):
-        pass
+        if self.face_dir == 1: # right
+            self.image.clip_draw(int(self.frame) * 140, 0, 140, 140, self.x, self.y)
+        else: # face_dir == -1: # left
+            self.image.clip_composite_draw(int(self.frame) * 140, 0, 140, 140, 0, 'h', self.x, self.y, 140, 140)
+
 
     def handle_events(self):
         pass
