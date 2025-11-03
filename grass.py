@@ -1,13 +1,16 @@
-from pico2d import load_image
-
+from pico2d import *
 
 class Grass:
-    def __init__(self, x = 400, y = 30):
-        self.x, self.y = x, y
+    def __init__(self):
         self.image = load_image('grass.png')
-
-    def draw(self):
-        self.image.draw(self.x, self.y)
+        self.ruler_image = load_image('ruler.png')
 
     def update(self):
         pass
+
+    def draw(self):
+        self.image.draw(400, 30)
+        self.image.draw(1200, 30)
+        self.ruler_image.draw(800, 350)
+
+

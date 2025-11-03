@@ -1,8 +1,4 @@
-# game 내의 객체들의 생성과 소멸을 관리하는 모듈입니다.
-
-# world[0] : 0 layer
-# world[1] : 1 layer
-world = [[],[],[]] # 게임 내의 모든 객체를 담는 리스트입니다.
+world = [[], [], []] # layers for game objects
 
 def add_object(o, depth = 0):
     world[depth].append(o)
@@ -16,6 +12,9 @@ def remove_object(o):
             layer.remove(o)
             return
 
+    raise Exception("Object not found")
+
+
 def update():
     for layer in world:
         for o in layer:
@@ -26,3 +25,7 @@ def render():
         for o in layer:
             o.draw()
 
+
+def clear():
+    for layer in world:
+        layer.clear()
